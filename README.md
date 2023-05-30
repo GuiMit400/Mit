@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img align="center" height="300" width="300" src="https://media2.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e47st5j0ugo33z05h4d9qwdjvwicrjhjjee22g9kvqv&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-</div> 
+</div><br>
 
 <div align="center">
   <a href="https://github.com/GuiMit400">
