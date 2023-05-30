@@ -31,6 +31,7 @@
 </div>
   
 
+ ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> 
   
   <div align=left style="display: inline_block"><br>
   <a href = "mailto:tsukamotoguilherme@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
